@@ -1,7 +1,7 @@
 """
 Healthcare Patient Data Analysis
 =================================
-Author  : [Your Name]
+Author  : [Laurel Anangwe]
 Dataset : Health_dataset_py.xlsx  |  8,000 patients  |  2022–2024
 Purpose : Exploratory data analysis and visualization of multi-hospital
           patient records covering disease burden, treatment outcomes,
