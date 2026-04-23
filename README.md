@@ -110,8 +110,14 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 
 ## 📸 DASHBOARD PREVIEW
 
-> *(Add a screenshot of your Excel dashboard here after uploading to GitHub)*
-> Tip: On Windows — `Snipping Tool`. On Mac — `Cmd + Shift + 4`. Save as PNG and drag into the repo.
+**Overview & KPIs**
+![Dashboard Overview](dashboard-overview.png)
+
+**Disease Analysis**
+![Disease Analysis](dashboard-disease.png)
+
+**Demographics**
+![Dashboard Demographics](dashboard-demographics.png)
 
 ---
 
