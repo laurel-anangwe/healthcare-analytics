@@ -94,7 +94,7 @@ healthcare-analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/healthcare-analytics.git
+git clone https://github.com/laurel-anangwe/healthcare-analytics.git
 cd healthcare-analytics
 
 # Install dependencies
@@ -127,57 +127,5 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 ---
 ---
 
-# ✉️ CV / RESUME PROJECT ENTRY
-
-*Copy one of the versions below directly into your CV under a "Projects" section.*
-
----
-
-## VERSION A — Concise (1–2 lines, for tight CVs)
-
-**Healthcare Patient Analytics Dashboard** | Excel · Python (pandas, matplotlib)
-Analysed 8,000 patient records across 7 hospitals to surface disease burden, mortality drivers, and treatment outcomes; built an interactive Excel dashboard and Python visualizations revealing an 85% recovery rate and a 30% hospital load concentration. [[GitHub Link]](#)
-
----
-
-## VERSION B — Detailed (3–4 lines, for data analyst roles)
-
-**Healthcare Patient Analytics Dashboard** | Excel · Python · Data Visualization
-Designed and executed an end-to-end data analysis project on an 8,000-patient multi-hospital dataset spanning 2022–2024. Engineered a multi-sheet Excel dashboard covering disease burden, treatment outcomes, demographic segmentation, and hospital performance metrics. Extended the analysis in Python using pandas and matplotlib to produce publication-quality visualizations. Key findings included an 85.2% system-wide recovery rate, a 65:35 male-to-female patient ratio, and a critical resource concentration at a single hospital handling 30% of all cases. [[GitHub Link]](#)
-
----
-
-## VERSION C — Achievement-Focused (for competitive applications)
-
-**Healthcare Patient Analytics Dashboard** | Excel · Python
-- Cleaned, structured, and analysed 8,000 patient records across 15 disease categories and 7 hospitals
-- Built a 6-sheet Excel dashboard with KPI cards, disease performance matrices, and hospital comparison tables
-- Produced 3 Python visualization panels (matplotlib/seaborn) covering demographics, outcomes, and operations
-- Identified Diabetes as the highest-mortality disease (6.9%) and flagged a 2.5-day gender gap in Hypertension stay length — insights with direct clinical relevance
-- Demonstrated proficiency in data wrangling, pivot analysis, visual design, and data storytelling [[GitHub Link]](#)
-
----
-
-## 💡 WHERE TO LIST IT ON YOUR CV
-
-Place it in a **Projects** section, ideally between your Work Experience and Education sections.
-If you don't have a Projects section yet, add one — for data roles, strong projects often outweigh short work experience.
-
-**Section header options:**
-- `Projects`
-- `Data Projects`
-- `Portfolio Projects`
-- `Independent Projects`
-
----
-
-## 🔗 HOW TO LINK IT
-
-1. **GitHub** (best for technical roles) — Upload the folder as a public repo, link directly from your CV
-2. **LinkedIn** — Add it under `Featured` or `Projects` on your profile; paste the GitHub URL
-3. **Notion / Google Sites** — Turn the README into a visual case study with embedded screenshots
-4. **PDF Portfolio** — Screenshot the Excel dashboard, include 1–2 Python charts, add the CV write-up
-
----
 
 *Healthcare Patient Analytics Dashboard — built with Excel & Python | Dataset: Health_dataset_py.xlsx*
