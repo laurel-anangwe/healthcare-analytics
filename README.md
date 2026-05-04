@@ -120,17 +120,6 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 ![Dashboard Demographics](dashboard-demographics.png)
 
 ---
-
-## 🔮 POTENTIAL EXTENSIONS
-
-- **Power BI / Tableau** version of the dashboard for interactive web sharing
-- **Time-series forecasting** of monthly admissions using `statsmodels`
-- **Predictive model** — logistic regression to predict mortality risk by patient profile
-- **Geographic mapping** if hospital location data is available
-
----
-
----
 ---
 
 
